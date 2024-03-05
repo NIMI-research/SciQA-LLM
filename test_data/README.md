@@ -1,6 +1,6 @@
 # Prompt Folder
 
-This repository contains a collection of prompts used in experiments for analyzing the performance of various language models on the SciQA benchmark. Each model has its own subfolder containing the prompts specific to that model.
+This repository contains a collection of prompts used in experiments for analysing the performance of various language models on the SciQA benchmark. Each model has its own subfolder containing the prompts specific to that model.
 
 ## Models
 
@@ -15,6 +15,7 @@ This repository contains a collection of prompts used in experiments for analyzi
 ### Dolly
 - Folder: `03-dolly-v2-3B`
 - Description: This folder holds 20 files (one for each experiment) containing all the prompts we employed for the Dolly model.
+  This folder contains ```test_3``` which is the preliminary output of the test 3.
 
 ### GPT 3.5
 - Folder: `04-gpt-3.5-turbo`
