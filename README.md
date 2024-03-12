@@ -37,16 +37,24 @@ The paper delves into the evaluation of large language models on the SciQA bench
 #### T5-base
 Description: T5-base is a transformer-based language model known for its versatility in natural language processing tasks. It is a relatively smaller model compared to other variants but has shown effectiveness in various applications.
 
+Model: [https://huggingface.co/t5-base](https://huggingface.co/t5-base)
+
 #### GPT-2-large
 Description: GPT-2-large is a variant of the Generative Pre-trained Transformer (GPT) model developed by OpenAI. It is known for its large number of parameters and ability to generate coherent text based on input prompts.
 
+Model: [https://huggingface.co/gpt2-large](https://huggingface.co/gpt2-large)
+
 #### Dolly-v2-3b
 Description: Dolly-v2-3b is a large language model designed for natural language processing tasks. It is known for its capacity to handle complex language understanding and generation tasks.
+
+Model: [https://huggingface.co/databricks/dolly-v2-3b](https://huggingface.co/databricks/dolly-v2-3b)
 
 #### GPT-3.5 Turbo
 Description: GPT-3.5 Turbo is an advanced version of the GPT-3 model, incorporating enhancements for improved performance in various language processing tasks. It is known for its large-scale capabilities and high-quality text generation.
 
 These models were selected for their capabilities in handling complex language understanding tasks and were fine-tuned and evaluated on the SciQA benchmark to assess their performance in scientific question answering over knowledge graphs.
+
+Model: [https://platform.openai.com/docs/models/gpt-3-5](https://platform.openai.com/docs/models/gpt-3-5)
 
 
 
